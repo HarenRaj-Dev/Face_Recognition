@@ -16,7 +16,7 @@ This project uses OpenCV and Tkinter for automatic attendance marking using faci
 - opencv-python, opencv-contrib-python, pandas
 
 ## 📈 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenRaj-De&show_icons=true&theme=tokyonight)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenRaj-Dev&show_icons=true&theme=tokyonight)
 ![My Friend's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank200828&show_icons=true&theme=tokyonight)
 
 ## 🌐 Connect with Me
